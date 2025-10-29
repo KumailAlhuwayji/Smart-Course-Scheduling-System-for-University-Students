@@ -31,6 +31,3 @@ It integrates **data analysis and AI-driven insights** with structured **busines
 ## Key Outcomes
 - Provided an intelligent and efficient approach to course scheduling  
 - Demonstrated integration of analytical thinking, AI concepts, and business analysis methodologies  
-
-## Author
-**Ali Alali**
